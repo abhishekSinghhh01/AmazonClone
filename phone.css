@@ -1,0 +1,72 @@
+body{
+    /* background-color: red; */
+    align-items: center;
+    text-align: center;
+ 
+}
+/* navbar */
+.navbar{
+    flex-direction: column;
+    height: fit-content;
+    padding-bottom: 25px;
+
+}
+.nav-search{
+    width: fit-content;
+   margin: 10px ;
+}
+.nav-signin{
+    padding: 10px;
+}
+.nav-return{
+    padding: 9px;
+}
+
+/* panel */
+.panel{
+    flex-direction: column;
+    height: auto;
+    padding:6px;
+}
+.panel-ops{
+    padding:10px;
+    margin:6px;
+}
+/* hero-section */
+/* .hero-section{ */
+    
+
+/* shop-section */
+.shop-section{
+    /* flex-direction: column; */
+    /* flex-flow: column wrap; */
+    align-items: center;
+    height: auto;
+    /* justify-content: center; */
+    /* justify-self: stretch; */
+}
+.box{
+    flex-direction: column;
+    width: 300px;
+}
+.box-content{
+    font-size: 0.8rem;
+}
+.hero-section{
+    height: 130px;
+   width: auto;
+   
+}
+/* footer */
+.foot-panel2{
+    /* flex-direction: column; */
+    height:fit-content;
+    /* align-content: center; */
+    /* height: fit-content; */
+    flex-direction: column;
+}
+.foot-panel3{
+    height:fit-content;
+    flex-direction: column;
+}
+   
